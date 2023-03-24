@@ -2,9 +2,6 @@ from django.contrib.auth import get_user_model
 from django.db import models
 from django.db.models import CheckConstraint, F, Q
 
-# from django.utils import timezone
-# from typing import Optional
-
 User = get_user_model()
 
 
