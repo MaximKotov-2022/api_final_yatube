@@ -11,6 +11,12 @@
 
 Обработка GET, POST, PATCH, PUT и DELETE запросов к базе данных проекта Yatube
 
+### Технологии
++ Python 3.7
++ Django 2.2.19
++ Django Rest Framework 3.12.4
++ JWT + Djoser
+
 
 ### Как запустить проект:
 
